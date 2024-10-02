@@ -1,6 +1,7 @@
 # Hello! I'm João Magno (🇧🇷)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;+I'm+a+Developer!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=800080&random=false&width=435&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;+I'm+a+Developer!
+)
 
 ![Gengar](https://cdn3.emoji.gg/emojis/31035-gengar-laugh.gif)
 
@@ -12,7 +13,7 @@
 
 ![Magnsz GitHub stats](https://github-readme-stats.vercel.app/api?username=Magnsz&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Magnsz&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Magnsz&size_weight=0.5&count_weight=0.5icons=true&theme=radical)
 
 ### Languages and Tools
 ###
@@ -29,4 +30,4 @@
 
 ###
 
-<img align="bottom" src="https://i.imgur.com/lJEWxk2.gif" alt="Tag" style="width: 15px; height: 15px;"> Passionate about solving problems with programming <img align="bottom" src="https://i.imgur.com/lJEWxk2.gif" alt="Tag" style="width: 15px; height: 15px;"><br/>
+<img align="bottom" src="https://i.imgur.com/lJEWxk2.gif" alt="Tag" style="width: 12px; height: 12px;"> Passionate about solving problems with programming <img align="bottom" src="https://i.imgur.com/lJEWxk2.gif" alt="Tag" style="width: 12px; height: 12px;"><br/>

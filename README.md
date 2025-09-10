@@ -9,7 +9,7 @@
 ###
 -  I'm a Computer Science student.
 -  Studying Java and Python.
--  I'm looking to collaborate on backend related projects.
+-  I am looking for interesting projects to work on.
 
 <br/>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-magno-mendonça-664171331/)<img  src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" title="magnsz">
 
@@ -32,4 +32,4 @@
 
 ###
 
-<img align="bottom" src="https://i.imgur.com/lJEWxk2.gif" alt="Tag" style="width: 12px; height: 12px;"> Passionate about solving problems with programming <img align="bottom" src="https://i.imgur.com/lJEWxk2.gif" alt="Tag" style="width: 12px; height: 12px;"><br/>
+<img align="bottom" src="https://i.imgur.com/lJEWxk2.gif" alt="Tag" style="width: 12px; height: 12px;"> I enjoy solving problems with programming. <img align="bottom" src="https://i.imgur.com/lJEWxk2.gif" alt="Tag" style="width: 12px; height: 12px;"><br/>
